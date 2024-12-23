@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 hello wastefellows..
+=======
+<<<<<<< HEAD
+hiiiii
+=======
+this is keerthi
+>>>>>>> a8ec01b2cba3c3cb761704c80fd965cc761e8543
+>>>>>>> 8fe83cf6831973d91130fbe762dcba79b1594dbc
